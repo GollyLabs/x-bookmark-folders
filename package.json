@@ -1,0 +1,15 @@
+{
+  "name": "x-bookmark-folders-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Open X's Add to Folder picker as soon as a post is bookmarked.",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check content.js && node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
